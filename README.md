@@ -1,29 +1,15 @@
-# klm-demo
+# FastTrack Holidays assignment (frontend)
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a frontend created for the FastTrack Holidays assignment (backend) created using VueJS.
 
-## Recommended IDE Setup
+## Run
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+The script can be started using Vite with the following command
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```
+$ npm run dev
 ```
 
-### Compile and Hot-Reload for Development
+By default the application will run on `http://localhost:5173`.
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+The build can be found in the /dist folder. A webserver is needed to run this.
